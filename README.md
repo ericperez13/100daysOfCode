@@ -13,3 +13,25 @@ taking on the 100 days of code challenge
 <h2>Key Takeaways</h2>
 <p>The takeaway for today is to maybe do some HTML and CSS as a refresher. Go back and create some simple HTML only sites and then incorporate some CSS into them as well. I need to go back and refresh myself on the basics of HTML and CSS and work my way back into JavaScript just so I can get the hang of it again. Also, take this time to plan out what projects I want to work on since I am sort of just looking around and doing random stuff.</p>
 <a href="https://github.com/ericperez13/colorFlipper">Link to colorFlipper</a>
+
+<h1>Day 3</h1>
+<p>Today was the third day of 100 days of code for me. I went backwards and started the basics all over again. I am currently using freeCodeCamp to go through the basics of JavaScript. I think this is the right choice since I don't feel a certain way or I don't feel lost either in going back to learn about JavaScript. </p>
+<h2>Key Takeaways</h2>
+<p>There's this quote by Richard Bach, an American author, who once said, "We teach best what we most need to learn." I think this is very true becuase when I am writing notes down and I feel lost, I either teach my dog what I learned in my one hour session and feel like I grasp what is being taught better. So I'm going to try and keep it short with what I've learned as to not overdo it on a github readme file. </p>
+<h3>Variables</h3>
+<p>When declaring a variable in JavaScript, you use the keyword 'let' and then the variable name. Variables can include letters, numbers, dollar signs, and underscores. Variables <b>cannot contain spaces or begin with numbers.</b> When you assign a variable a value at the moment of declaration, it's called <b>initialization.</b> When you declare a variable without initializing it, it's considered <b>uninitialized.</b></p>
+<h3>Arrays</h3>
+<p>Personally, things got a little confusing to me when it came to arrays becuase of the different methods they were telling me to use, but these are the ones I got so far. But first, an array is a non-primitive data type that can hold a series of values and are 'detonated'(they used this word, not me) using square brackets. 
+```
+  let array = [];
+```
+When an array is holding values or elements, the values are separated by commas. <b>The order of values in an array is important.</b>
+  ```
+  let array = ['one', 'two', 'three'];
+  ```
+  You can access the values inside an array by using the index of the value.<b>Index</b> is a number representing the position of the value in the array, where 0 represents the first value. 
+  ```
+  array[0];
+  ```
+</p>
+<a href="https://github.com/ericperez13/colorFlipper">Link to colorFlipper</a>
