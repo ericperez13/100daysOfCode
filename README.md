@@ -21,17 +21,23 @@ taking on the 100 days of code challenge
 <h3>Variables</h3>
 <p>When declaring a variable in JavaScript, you use the keyword 'let' and then the variable name. Variables can include letters, numbers, dollar signs, and underscores. Variables <b>cannot contain spaces or begin with numbers.</b> When you assign a variable a value at the moment of declaration, it's called <b>initialization.</b> When you declare a variable without initializing it, it's considered <b>uninitialized.</b></p>
 <h3>Arrays</h3>
-<p>Personally, things got a little confusing to me when it came to arrays becuase of the different methods they were telling me to use, but these are the ones I got so far. But first, an array is a non-primitive data type that can hold a series of values and are 'detonated'(they used this word, not me) using square brackets. 
-```
+<p>Personally, things got a little confusing to me when it came to arrays becuase of the different methods they were telling me to use, but these are the ones I got so far. But first, an array is a non-primitive data type that can hold a series of values and are 'detonated'(they used this word, not me) using square brackets.
+  
+```javascript
   let array = [];
 ```
+
 When an array is holding values or elements, the values are separated by commas. <b>The order of values in an array is important.</b>
-  ```
+
+  ```javascript
   let array = ['one', 'two', 'three'];
   ```
+
   You can access the values inside an array by using the index of the value.<b>Index</b> is a number representing the position of the value in the array, where 0 represents the first value. 
-  ```
+  
+  ```javascript
   array[0];
   ```
+
 </p>
 <a href="https://github.com/ericperez13/colorFlipper">Link to colorFlipper</a>
